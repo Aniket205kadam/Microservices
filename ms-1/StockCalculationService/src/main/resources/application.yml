@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: StockCalculationService
+
+server:
+  port: 9090
